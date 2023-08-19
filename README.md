@@ -7,5 +7,7 @@ This project was made up of the following;
           a. HTML
           b. CSS
 In order to run this you need to have a windows machine
+
+git clone 
           
       
