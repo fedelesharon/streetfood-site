@@ -8,6 +8,6 @@ This project was made up of the following;
           b. CSS
 In order to run this you need to have a windows machine
 
-git clone 
+git clone https://github.com/fedelesharon/streetfood-site.git
           
       
