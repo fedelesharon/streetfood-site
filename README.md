@@ -11,6 +11,6 @@ I have managed all these with the help of visual studio code and I've deployed i
 
 Git clone https://github.com/fedelesharon/streetfood-site.git
 
-written by sharon muingo
+Written by Sharon Muingo
           
       
