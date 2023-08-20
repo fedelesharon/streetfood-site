@@ -9,6 +9,7 @@ This project was made up of the following;
 In order to run this you need to have a windows machine
 
 Git clone https://github.com/fedelesharon/streetfood-site.git
+
 written
           
       
