@@ -13,5 +13,4 @@ Git clone https://github.com/fedelesharon/streetfood-site.git
 
 Written by Fedelis Sharon Muingo
           
-      
-C:\Users\OWNER\Desktop\wk05\project3\images\download.jpeg
+
