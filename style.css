@@ -336,36 +336,36 @@ button.order-now:hover {
     }
 }
 
-/* eat together part */
+/* eat together section */
 
 #eat-together {
     padding: 80px 20px;
     flex-wrap: wrap;
 }
 
-#eat-together .part-image {
+#eat-together .secion-image {
     width: 50%;
 }
 
-#eat-together .part-image image 3 {
+#eat-together .section-image image 3 {
     width: 100%;
     height: auto;
 }
 
-#eat-together .part-description {
+#eat-together .section-description {
     /* padding-top: 40px; */
     width: 30%;
     text-align: center;
 }
 
-#eat-together .part-description h3 {
+#eat-together .section-description h3 {
     font-size: 40px;
     color: #eaab1b;
     font-weight: 500;
     opacity: 0.7;
 }
 
-#eat-together .part-description p {
+#eat-together .section-description p {
     font-size: 23px;
     line-height: 33px;
     color: #252525;
