@@ -13,7 +13,7 @@ Git clone https://github.com/fedelesharon/streetfood-site.git
 
 Written by Fedelis Sharon Muingo
           
-The following are the photos i have used
+The following are the image paths I have used
 
 C:\Users\OWNER\Desktop\images\images\image 1.png
 
