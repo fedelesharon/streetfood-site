@@ -1,17 +1,39 @@
 STREETFOOD WEBSITE
 
-This is a project for my street food site. It contains some foods and some a lot more.
+creating a site for the street food
 
+DESCRIPTION
+
+This being my week five independent project at Moringa school, I would like to tell you more about street foods.
+This is a project for my street food site. It contains some foods and some a lot more.
+ 
 This project was made up of the following;
 
           a. HTML
           b. CSS
-In order to run this you need to have a Windows machine
-I have managed all these with the help of visual studio code and I've deployed it on the GitHub pages. 
+
+ SET UP AND INSTALLATION REQUIREMENTS>
+
+         a. Git
+         b. web browser of your choice I recommend Google Chrome
+         c. Github
+
+SUPPORT AND CONTACT DETAILS.
+
+if you want to support me in any way you can reach me through the following;
+
+EMAIL: fedelis.muingo@student.moringaschool.com
+PHONE: 0731740173
 
 Git clone https://github.com/fedelesharon/streetfood-site.git
 
 Written by Fedelis Sharon Muingo
+
+LICENCE
+
+MIT licence copyright 2023 FEDELIS MUINGO
+
+
           
 The following are the image paths I have used
 
