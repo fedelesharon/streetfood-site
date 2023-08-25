@@ -23,11 +23,14 @@ SUPPORT AND CONTACT DETAILS.
 if you want to support me in any way you can reach me through the following;
 
 EMAIL: fedelis.muingo@student.moringaschool.com
+
 PHONE: 0731740173
+
 
 Git clone https://github.com/fedelesharon/streetfood-site.git
 
 Written by Fedelis Sharon Muingo
+
 
 LICENCE
 
