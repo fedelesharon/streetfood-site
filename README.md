@@ -47,32 +47,24 @@ MIT license copyright 2023 FEDELIS MUINGO
 
 
 
-          
-The following are the image paths I have used
+      
 
-C:\Users\OWNER\Desktop\images\images\image 1.png
 
-C:\Users\OWNER\Desktop\images\images\image 2.png
 
-C:\Users\OWNER\Desktop\images\images\image 3.png
 
-C:\Users\OWNER\Desktop\images\images\image 4.png
 
-C:\Users\OWNER\Desktop\images\images\image 5.png
 
-C:\Users\OWNER\Desktop\images\images\image 6.png
 
-C:\Users\OWNER\Desktop\images\images\image 7.png
 
-C:\Users\OWNER\Desktop\images\images\image 8.png
 
-C:\Users\OWNER\Desktop\images\images\image 9.png
 
-C:\Users\OWNER\Desktop\images\images\image 10.png
 
-C:\Users\OWNER\Desktop\images\images\image 11.png
 
-C:\Users\OWNER\Desktop\images\images\image 12.png
 
-C:\Users\OWNER\Desktop\images\images\insta.png
+
+
+
+
+
+
 
